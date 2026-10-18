@@ -1,0 +1,62 @@
+[
+  {
+    "persona": "说不清型",
+    "delivered": true,
+    "turns": 6,
+    "questions": 8,
+    "within_budget": true,
+    "compliant_jd": true,
+    "backtest": 67,
+    "generated_data": true,
+    "calibrated": true,
+    "errors": 0
+  },
+  {
+    "persona": "自相矛盾型",
+    "delivered": true,
+    "turns": 6,
+    "questions": 8,
+    "within_budget": true,
+    "compliant_jd": true,
+    "backtest": 75,
+    "generated_data": true,
+    "calibrated": true,
+    "errors": 0
+  },
+  {
+    "persona": "刁难型",
+    "delivered": true,
+    "turns": 6,
+    "questions": 8,
+    "within_budget": true,
+    "compliant_jd": false,
+    "backtest": 67,
+    "generated_data": true,
+    "calibrated": true,
+    "errors": 0
+  },
+  {
+    "persona": "改主意型",
+    "delivered": true,
+    "turns": 7,
+    "questions": 8,
+    "within_budget": true,
+    "compliant_jd": true,
+    "backtest": 83,
+    "generated_data": false,
+    "calibrated": true,
+    "errors": 0
+  },
+  {
+    "persona": "先提问型",
+    "delivered": true,
+    "turns": 6,
+    "questions": 8,
+    "within_budget": true,
+    "compliant_jd": true,
+    "backtest": 75,
+    "generated_data": true,
+    "calibrated": true,
+    "errors": 0
+  }
+]

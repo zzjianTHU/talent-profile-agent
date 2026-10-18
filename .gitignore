@@ -1,0 +1,11 @@
+node_modules
+.next
+.env*.local
+next-env.d.ts
+*.tsbuildinfo
+.next-eval
+dist-deploy
+dist-deploy.tgz
+.next-deploy
+.claude/
+.DS_Store
